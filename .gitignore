@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+
+# Logs
+*.log
+
+# Banco local
+*.mdf
+*.ldf
+
+# Configurações locais
+appsettings.Development.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+appsettings.Development.json
